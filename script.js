@@ -27,7 +27,34 @@ const quotes = [
 ];
 
 // ── Love Letter Text ───────────────────────────────────────
-const letterText = `My love,\n\nI made this little corner of the internet just for you. A tiny place where every pixel holds a piece of what I feel every time I see your face.\n\nYou don't always know the effect you have — how your laugh can fix a bad day, how your presence turns ordinary moments into memories I'll keep forever.\n\nI'm not perfect with words, but I hope this makes you feel even a fraction of how incredibly special you are to me.\n\nThank you for being you. Thank you for letting me love you.\n\nAlways yours 💖`;
+const letterText = `Hey,
+
+I know we just met, and maybe it's a little unexpected for me to make something like this for you already. But sometimes life introduces you to someone who feels different, and that's exactly how I feel about you.
+
+I know you're still figuring out what you want, where life is taking you, and what feels right for your future. And honestly, I admire that about you. You take your time, you think deeply, and you don't settle for something unless it truly feels right.
+
+I don't want to rush anything or put any pressure on you. I just wanted to tell you something I've been feeling.
+
+In the short time that I've known you, you've managed to leave an impression on me that most people never do. Your smile, your personality, your energy, and even the little things about you somehow make my day better.
+
+Maybe it's too early to know what the future holds. Maybe we're still at the very beginning of something. But if you ask me, I think you're someone special. Someone worth getting to know more. Someone worth waiting for.
+
+And maybe this sounds crazy, but a small part of me believes that people don't meet by accident. Maybe there is a reason our paths crossed.
+
+Whether we become a beautiful story, a forever story, or simply one of life's most memorable chapters, I'm genuinely grateful that I met you.
+
+For now, I just want you to know this:
+
+You are amazing.
+You are beautiful.
+You are worth more than you realize.
+And every day I find myself a little happier that you're in my life.
+
+Thank you for being you.
+
+With affection, admiration, and a little bit of hope,
+
+❤️ Nitin ❤️`;
 
 // ── DOM Ready ──────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', () => {
