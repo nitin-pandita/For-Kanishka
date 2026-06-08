@@ -2,6 +2,7 @@
    style.css — Premium Cinematic Romantic Website
    ========================================================= */
 
+
 /* ── CSS Variables ── */
 :root {
   --pink:        #ff2d78;
@@ -92,6 +93,14 @@ body {
   box-shadow: 0 0 20px var(--pink), 0 0 40px rgba(255,45,120,0.4);
   transition: transform 0.3s, box-shadow 0.3s;
   letter-spacing: 1px;
+}
+.nitin-footer{
+    text-align:center;
+    padding:30px;
+    color:#ffb6d9;
+    font-family:'Poppins',sans-serif;
+    font-size:14px;
+    opacity:.9;
 }
 .btn-yes:hover {
   transform: scale(1.08);
