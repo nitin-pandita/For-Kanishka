@@ -27,28 +27,14 @@ const quotes = [
 ];
 
 // ── Love Letter Text ───────────────────────────────────────
-const letterText = `Hey,
+const letterText = `Dear Ankita,
 
-I know we just met, and maybe it's a little unexpected for me to make something like this for you already. But sometimes life introduces you to someone who feels different, and that's exactly how I feel about you.
+It's hard to believe that it's already been 8 years since we became friends. Through all these years, you've been one of the most important people in my life—someone who has stood by me, made me laugh, supported me during difficult times, and filled countless moments with happiness. What started as a beautiful friendship slowly became something much deeper in my heart. Every conversation with you, every memory we've shared, and every moment spent together has made me realize how special you truly are to me.
 
-I know you're still figuring out what you want, where life is taking you, and what feels right for your future. And honestly, I admire that about you. You take your time, you think deeply, and you don't settle for something unless it truly feels right.
+Today, I want to be honest about my feelings. Somewhere along this journey, I stopped seeing you as just my best friend and started imagining a future where you're much more than that. I care about you in a way that words can barely express, and my heart feels happiest when you're around. Ankita, I would love the chance to be more than your friend—to be your partner, your biggest supporter, and the person who stands beside you through every chapter of life. No matter what your answer is, I will always cherish the bond we've built over these incredible 8 years. But if you feel the same way, it would make me the happiest person in the world to call you my girlfriend.
 
-I don't want to rush anything or put any pressure on you. I just wanted to tell you something I've been feeling.
-
-In the short time that I've known you, you've managed to leave an impression on me that most people never do. Your smile, your personality, your energy, and even the little things about you somehow make my day better.
-
-Maybe it's too early to know what the future holds. Maybe we're still at the very beginning of something. But if you ask me, I think you're someone special. Someone worth getting to know more. Someone worth waiting for.
-
-And maybe this sounds crazy, but a small part of me believes that people don't meet by accident. Maybe there is a reason our paths crossed.
-
-Whether we become a beautiful story, a forever story, or simply one of life's most memorable chapters, I'm genuinely grateful that I met you.
-
-For now, I just want you to know this:
-
-You are amazing.
-You are beautiful.
-You are worth more than you realize.
-And every day I find myself a little happier that you're in my life.
+With all my heart,
+Nitin ❤️
 
 Thank you for being you.
 
