@@ -27,16 +27,18 @@ const quotes = [
 ];
 
 // ── Love Letter Text ───────────────────────────────────────
-const letterText = `Dear Ankita,
+const letterText = `Hey Khushi,
 
-It's hard to believe that it's already been 8 years since we became friends. Through all these years, you've been one of the most important people in my life—someone who has stood by me, made me laugh, supported me during difficult times, and filled countless moments with happiness. What started as a beautiful friendship slowly became something much deeper in my heart. Every conversation with you, every memory we've shared, and every moment spent together has made me realize how special you truly are to me.
+I know we've only been talking for a day, and this might sound a little unexpected, but I wanted to be honest about something.
 
-Today, I want to be honest about my feelings. Somewhere along this journey, I stopped seeing you as just my best friend and started imagining a future where you're much more than that. I care about you in a way that words can barely express, and my heart feels happiest when you're around. Ankita, I would love the chance to be more than your friend—to be your partner, your biggest supporter, and the person who stands beside you through every chapter of life. No matter what your answer is, I will always cherish the bond we've built over these incredible 8 years. But if you feel the same way, it would make me the happiest person in the world to call you my girlfriend.
+It's rare for me to feel comfortable talking to someone so quickly, but with you, the conversation felt natural from the very beginning. There’s something about the way you talk, your vibe, your smile, and especially your eyes that caught my attention. You seem like a genuinely kind and beautiful person, and getting to know you has been the best part of my day.
 
-With all my heart,
-Nitin ❤️
+I'm not saying this because I want to rush anything. In fact, I'd rather take the time to know you properly. But I also don't want to hide the fact that I'd like to see where this connection could go. I really enjoy talking to you, and I'd love the chance to know you better and create something meaningful together.
 
-Thank you for being you.
+All I ask for is your trust and honesty, and I promise you'll always get the same from me. Whether we become great friends or something more, I'm genuinely happy that we matched and started talking.
+
+Looking forward to getting to know the amazing person behind that beautiful smile. ❤️
+
 
 With affection, admiration, and a little bit of hope,
 
