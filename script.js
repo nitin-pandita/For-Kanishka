@@ -16,29 +16,24 @@ let letterFullText = '';
 
 // ── Romantic Quotes ────────────────────────────────────────
 const quotes = [
-  '"You are my today and all of my tomorrows." 💖',
-  '"Every love story is beautiful, but ours is my favorite." 🌸',
-  '"In you, I found the one I had been looking for." ✨',
-  '"You make my heart smile." 💕',
-  '"I choose you. And I\'ll choose you over and over." 🌹',
-  '"You are my sunshine on a rainy day." ☀️',
-  '"With you, every moment is magical." 💫',
-  '"You had me at hello — and every moment after." 💌',
+  '"Getting to know you has been my favorite part of the day." 😊',
+  '"You seem like the kind of person who makes ordinary days interesting." ✨',
+  '"One conversation with you wasn’t enough." 💬',
+  '"You have a smile that deserves a second look." 😊',
+  '"I’m pretty sure Hinge owes me a thank-you for this match." 😉',
+  '"Every message from you makes me curious to know more." 💕',
+  '"You make getting distracted from work way too easy." 😄',
+  '"I can’t decide what I like more — your smile or our conversations." 🌸',
+  '"I’m looking forward to discovering your favorite stories." 📖',
+  '"You seem worth staying up a little later to talk to." 🌙',
+  '"The best thing Hinge did was introduce us." 💫',
+  '"I have a feeling this conversation is just getting started." 💌'
 ];
 
 // ── Love Letter Text ───────────────────────────────────────
-const letterText = `Hey Khushi,
+const letterText = `Hey Deeya ❤️,
 
-I know we've only been talking for a day, and this might sound a little unexpected, but I wanted to be honest about something.
-
-It's rare for me to feel comfortable talking to someone so quickly, but with you, the conversation felt natural from the very beginning. There’s something about the way you talk, your vibe, your smile, and especially your eyes that caught my attention. You seem like a genuinely kind and beautiful person, and getting to know you has been the best part of my day.
-
-I'm not saying this because I want to rush anything. In fact, I'd rather take the time to know you properly. But I also don't want to hide the fact that I'd like to see where this connection could go. I really enjoy talking to you, and I'd love the chance to know you better and create something meaningful together.
-
-All I ask for is your trust and honesty, and I promise you'll always get the same from me. Whether we become great friends or something more, I'm genuinely happy that we matched and started talking.
-
-Looking forward to getting to know the amazing person behind that beautiful smile. ❤️
-
+I know we've only known each other for a short time, but talking to you has already become one of my favorite parts of the day. There's something about your smile, your eyes, and the way you talk that makes me want to know you better. I know trusting people isn't easy these days, so I'm not asking for all of your trust at once—just let me earn it, 1% at a time, at a pace that feels right for you. I genuinely enjoy our conversations, and I'm excited to see where this beautiful connection takes us. 🌸✨
 
 With affection, admiration, and a little bit of hope,
 
